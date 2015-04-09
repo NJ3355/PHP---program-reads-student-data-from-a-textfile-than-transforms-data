@@ -16,7 +16,7 @@ th {
 <body>
 <fieldset>
   <legend>BCS350_21695_Project1_Nick Johnson</legend>
-  <p> Nick Johnson<br>RAM: R01495898<br>I certify that this submission is my own original work.</p>
+  <p> Nick Johnson<br></p>
  </fieldset>
 <h2>Student Grade Input Page</h2>
 
